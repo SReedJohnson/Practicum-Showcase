@@ -9,7 +9,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Jensen, Amber    | Predicting Scope 3 Greenhouse Gas (GHG) Emissions Using Hierarchical Linear Modeling | [Code](https://github.com/ajensen008/AmberJensen_Practicum_I/tree/main/Notebooks) | [Slides](https://github.com/ajensen008/AmberJensen_Practicum_I/blob/main/Jensen_Practicum_I_Presentation.pptx) |  |  |  |
 | Scardino, Matthew     | Wildlife Image Processing & Semantic Search System | [Code](https://github.com/readcommitted/wildlife.git) |  |  | [Blog](https://readcommitted.com) |  |
 | Hamel, Chandon | 3D Denoising Diffusion Video Frame Interpolation (5DVFI) | [GitHub](https://github.com/Feebami/5DVFI) | [WebPage](https://huggingface.co/spaces/Feebami/DiffusionVFI) | [Report](https://drive.google.com/file/d/1pcxkm-aqTR0GQc6mJWLvHV8SsWo3JfNO/view?usp=drive_link) | | |
-
+| Johnson, Reed | Semantic Segmentation of Solar Farms from Aerial Imagery in Eastern NC Using U-Net| [Code](https://github.com/SReedJohnson/solar-farm-semantic-segmentation) | [Slides](https://github.com/SReedJohnson/solar-farm-semantic-segmentation) | | | 
 
 
 
